@@ -1,0 +1,12 @@
+{
+  "displayName": "agent1",
+  "defaultLanguageCode": "en",
+  "timeZone": "America/Los_Angeles",
+  "projectNumber": 691420043775,
+  "startFlow": "Default Start Flow",
+  "advancedSettings": {
+    "loggingSettings": {
+    
+    }
+  }
+}
